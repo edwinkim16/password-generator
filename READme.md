@@ -21,9 +21,10 @@ the repo there
 * HTML
 * CSS
 * Js 
+* SCSS
 ## Support and contact details
 Incase of any queries you can reach me through email edwinkimathi226@gmail.com
 ### License
-This Project comes wit MIT License. View it <a href=""> MIT</a>
+This Project comes wit MIT License. View it <a href="https://github.com/edwinkim16/password-generator/blob/master/License"> MIT</a>
  Edwin Kimathi
   
